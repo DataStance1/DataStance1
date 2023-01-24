@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caleb
 - 👀 I’m interested in using data to make informed business and healthcare decisions
-- 🌱 I’m currently learning data analysis with python at Udacity 
+- 🌱 I recently finished the data analytics nanodegree program at Udacity 
 - 💞️ I’m looking to collaborate on data analysis projects involving exploratory and explanatory data analysis
 - 📫 You can reach me at [gmail](ugorjicalebchijindu@gmail.com)
 
